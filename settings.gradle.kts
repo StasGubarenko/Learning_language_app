@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Learning_language_app"
 include(":app")
- 
